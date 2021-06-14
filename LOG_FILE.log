@@ -1,0 +1,400 @@
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 5: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 6: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 15: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 16: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 16: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 25: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 26: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 26: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 35: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 36: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 36: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 45: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 46: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 46: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 55: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 56: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 56: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 65: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 66: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 66: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 75: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 76: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 76: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 85: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 86: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 86: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 95: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 96: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 96: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 105: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 106: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 106: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 115: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 116: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 116: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 125: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 126: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 126: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 135: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 136: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 136: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 145: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 146: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 146: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 155: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 156: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 156: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 165: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 166: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 166: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 175: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 176: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 176: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 185: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 186: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 186: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 195: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 196: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 196: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 205: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 206: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 206: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 215: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 216: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 216: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 225: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 226: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 226: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 235: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 236: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 236: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 245: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 246: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 246: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 255: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 256: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 256: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 265: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 266: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 266: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 275: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 276: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 276: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 285: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 286: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 286: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 295: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 296: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 296: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 305: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 306: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 306: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 315: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 316: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 316: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 325: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 326: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 326: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 335: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 336: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 336: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 345: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 346: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 346: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 355: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 356: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 356: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 365: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 366: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 366: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 375: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 376: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 376: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 385: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 386: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 386: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 395: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 396: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 396: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 405: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 406: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 406: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 415: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 416: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 416: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 425: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 426: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 426: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 435: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 436: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 436: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 445: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 446: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 446: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 455: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 456: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 456: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 465: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 466: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 466: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 475: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 476: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 476: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 485: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 486: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 486: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 495: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 496: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 496: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 505: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 506: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 506: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 515: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 516: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 516: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 525: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 526: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 526: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 535: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 536: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 536: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 545: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 546: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 546: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 555: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 556: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 556: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 565: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 566: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 566: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 575: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 576: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 576: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 585: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 586: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 586: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 595: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 596: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 596: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 605: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 606: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 606: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 615: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 616: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 616: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 625: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 626: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 626: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 635: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 636: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 636: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 645: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 646: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 646: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 655: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 656: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 656: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 665: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 666: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 666: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 675: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 676: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 676: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 685: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 686: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 686: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 695: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 696: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 696: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 705: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 706: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 706: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 715: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 716: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 716: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 725: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 726: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 726: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 735: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 736: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 736: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 745: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 746: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 746: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 755: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 756: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 756: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 765: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 766: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 766: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 775: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 776: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 776: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 785: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 786: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 786: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 795: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 796: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 796: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 805: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 806: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 806: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 815: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 816: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 816: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 825: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 826: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 826: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 835: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 836: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 836: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 845: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 846: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 846: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 855: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 856: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 856: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 865: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 866: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 866: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 875: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 876: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 876: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 885: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 886: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 886: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 895: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 896: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 896: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 905: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 906: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 906: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 915: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 916: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 916: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 925: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 926: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 926: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 935: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 936: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 936: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 945: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 946: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 946: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 955: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 956: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 956: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 965: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=0  b=1
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 966: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 966: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=0  b=1 ||  andd=0 orr=1 nott_a=1 nott_b=0 xorr=1 xnorr=0 buff_a=0 buff_b=1 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 975: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 976: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 976: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 985: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 986: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 986: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(61) @ 995: uvm_test_top.env_h.scoreboard_h [write_drv STIM]  a=1  b=0
+UVM_INFO /home/runner/gates_scoreboard.sv(105) @ 996: uvm_test_top.env_h.scoreboard_h [write_mon OUT ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_scoreboard.sv(126) @ 996: uvm_test_top.env_h.scoreboard_h [
+ [ PASS ]  a=1  b=0 ||  andd=0 orr=1 nott_a=0 nott_b=1 xorr=1 xnorr=0 buff_a=1 buff_b=0 nandd=1 norr=0
+UVM_INFO /home/runner/gates_coverage.sv(52) @ 1005: uvm_test_top.env_h.coverage_h [gates_coverage] Coverage is 83.333333
+UVM_INFO /home/runner/gates_scoreboard.sv(149) @ 1005: uvm_test_top.env_h.scoreboard_h [PASSED] *** TEST PASSED - 99 vectors ran, 99 vectors passed ***
